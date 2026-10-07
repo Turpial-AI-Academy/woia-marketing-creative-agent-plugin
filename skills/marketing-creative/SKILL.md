@@ -4,7 +4,7 @@ description: Define, produce, or audit Marketing creative briefs and asset requi
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.0"
+  version: "0.5.1"
 ---
 
 # Marketing Creative
@@ -30,3 +30,9 @@ The validator requires each asset to have an ID, purpose, media type, source/pro
 ## Effects
 
 Creative planning/generation is not publication. External publication belongs to Channel Execution and retains its own authority.
+
+## Eligible consumers and W3 boundary
+
+Marketing and Ads may consume the same creative brief, asset requirements, design and QA contract. Ads may request ad-specific variants; this does not grant campaign, targeting, budget or paid-effect authority. This provider never publishes or contacts a person. Person-directed dispatch belongs to Communications / Customer Service; public publication and paid effects remain separate owners.
+
+Use the additive `scripts/validate-creative-handoff.mjs` guard before accepting a scoped handoff. Existing asset-manifest validation remains compatible. Unknown consumer, action, source or generation qualification fails closed. ComfyUI is optional and must be selected with actually qualified nodes/models. Preserve versioned source refs and provenance; creative approval is not competent acceptance of domain facts or an effect authorization.
