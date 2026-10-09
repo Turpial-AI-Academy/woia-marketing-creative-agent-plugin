@@ -4,7 +4,7 @@ description: Define, produce, or audit Marketing creative briefs and asset requi
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.6"
+  version: "0.5.7"
 ---
 
 # Marketing Creative

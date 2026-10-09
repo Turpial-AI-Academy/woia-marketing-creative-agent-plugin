@@ -1,6 +1,6 @@
 # woia-marketing-creative
 
-WOIA Marketing v0.5.6 provider for `marketing.creative`.
+WOIA Marketing v0.5.7 provider for `marketing.creative`.
 
 - Primary skill: `$marketing-creative`
 - Authoring profile: thin
