@@ -4,7 +4,7 @@ description: Define, produce, or audit Marketing creative briefs and asset requi
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.1"
+  version: "0.5.6"
 ---
 
 # Marketing Creative
@@ -31,7 +31,7 @@ The validator requires each asset to have an ID, purpose, media type, source/pro
 
 Creative planning/generation is not publication. External publication belongs to Channel Execution and retains its own authority.
 
-## Eligible consumers and W3 boundary
+## Eligible consumers and boundary
 
 Marketing and Ads may consume the same creative brief, asset requirements, design and QA contract. Ads may request ad-specific variants; this does not grant campaign, targeting, budget or paid-effect authority. This provider never publishes or contacts a person. Person-directed dispatch belongs to Communications / Customer Service; public publication and paid effects remain separate owners.
 
